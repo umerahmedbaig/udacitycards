@@ -1,7 +1,6 @@
 {
   "name": "mobile-flashcards",
   "version": "0.1.0",
-  "private": true,
   "devDependencies": {
     "babel-eslint": "^8.1.2",
     "deep-freeze": "^0.0.1",
